@@ -1,7 +1,7 @@
 
-#EP1---Xadrez
+EP1---Xadrez
 
-##Integrantes:
+Integrantes:
 
     Gustavo Brandão Nersissian
     Leonardo Hideki Kawamoto
